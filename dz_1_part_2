@@ -23,6 +23,15 @@
     </div>
     <div>
         <h2>Player 2:</h2>
+         <!-- variant1 -->
+            <h1><span style="color:red; background-color: #b8b8b8;">3 ♥</span>
+                <span style="color:black; background-color: #b8b8b8;">A ♣</span>  
+                <span style="color:black; background-color: #b8b8b8;">10 ♣</span>
+                <span style="color:red; background-color: #b8b8b8;">K ♦</span>
+                <span style="color:black; background-color: #b8b8b8;">8 ♠</span>
+                <span style="color:red; background-color: #b8b8b8;">3 ♥</span>
+            </h1>
+            <!-- variant2 -->
             <div style="width:100px; height:50px; background-color: #b8b8b8; display: inline-block" >
                 <h1 style="color:red" align="center">3 ♥</h1>
             <div style="width:100px; height:50px; background-color: #b8b8b8; display: inline-block">
